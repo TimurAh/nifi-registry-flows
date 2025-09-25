@@ -1,5 +1,5 @@
 flows:
-  50f252dc-3f98-4326-b4bf-c3ec80beb784: {ver: 1, file: testImport.snapshot, comments: '',
-    author: anonymous, created: 1758804708517, flowName: testImport, flowDesc: ''}
+  50f252dc-3f98-4326-b4bf-c3ec80beb784: {ver: 2, file: testImport.snapshot, comments: 'test
+      2 ', author: anonymous, created: 1758804948066, flowName: testImport, flowDesc: ''}
 layoutVer: 1
 bucketId: d0ade698-68c2-42ca-8f74-1b40f474a534
